@@ -2,5 +2,5 @@
 - trigger: "build-susibian"
   label: ":cherries: Build SUSIbian"
   build:
-    branch: "susi"
+    branch: "susi-buildkite"
     message: "${BUILDKITE_MESSAGE}"
