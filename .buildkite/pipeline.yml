@@ -3,4 +3,4 @@
   label: ":cherries: Build SUSIbian"
   build:
     branch: "susi-buildkite"
-    message: "${BUILDKITE_MESSAGE}"
+    message: Continue from "${BUILDKITE_MESSAGE}"
